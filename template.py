@@ -20,9 +20,10 @@ list_of_files = [
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
-    "requirement.txt",
+    "requirements.txt",
     "setup.py",
     "research/trails.ipynb",
+    "templates/index.html"
 ]
 
 for filepath in list_of_files:
