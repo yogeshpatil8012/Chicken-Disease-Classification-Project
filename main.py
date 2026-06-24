@@ -1,2 +1,3 @@
-from cnnclasifier import logger
+from ccnclassifier import logger
 
+logger.info("Welcome to my custom log")
